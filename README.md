@@ -1,1 +1,1 @@
-# hangman
+# Basic game developed in Python
